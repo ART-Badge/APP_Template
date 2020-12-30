@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <file size="286" hash="170823714" name="app.js" offset="28">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_template/ART_Badge_template/app.js</file>
+    <file size="271" hash="2338074733" name="app.json" offset="316">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_template/ART_Badge_template/app.json</file>
+    <file size="4343" hash="498371308" name="modules/touch.js" offset="588">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_template/ART_Badge_template/modules/touch.js</file>
+    <file size="1517" hash="2650839397" name="pages/page1/page1.js" offset="4932">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_template/ART_Badge_template/pages/page1/page1.js</file>
+    <file size="614" hash="3662816903" name="pages/page1/page1.xml" offset="6452">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_template/ART_Badge_template/pages/page1/page1.xml</file>
+    <file size="2024" hash="1304487197" name="images/app.png" offset="7068">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_template/ART_Badge_template/res/images/app.png</file>
+    <file size="314" hash="1583426245" name="images/scrollbar_handle_horizontal.9.png" offset="9092">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_template/ART_Badge_template/res/images/scrollbar_handle_horizontal.9.png</file>
+    <file size="314" hash="3242514683" name="images/scrollbar_handle_vertical.9.png" offset="9408">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_template/ART_Badge_template/res/images/scrollbar_handle_vertical.9.png</file>
+    <file size="49" hash="3192282338" name="values/strings.bin" offset="9724">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_template/ART_Badge_template/res/values/strings.bin</file>
+    <file size="358" hash="3700132857" name="default" offset="9776">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_template/dist/default.bin</file>
+</resources>
